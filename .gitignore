@@ -1,0 +1,5 @@
+# List of untracked files to ignore
+data/
+csv_data/all_data_anotations
+csv_data/FourLabelsAnotations
+
